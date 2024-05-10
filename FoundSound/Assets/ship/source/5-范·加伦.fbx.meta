@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 5059a3641b30c47b2a460a83035c5b2b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bd001_director_mk_i_173
+    second: {fileID: 2100000, guid: 45d068451b0764c58bad4598fef8cc1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bd018_ster_shell_sight_723
+    second: {fileID: 2100000, guid: 8c61ef37642294648b90d1de9053a557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bf056_rangefinder_2_7m_235
+    second: {fileID: 2100000, guid: d803966388ced4df78ed960693599ac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bga067_2pdr_qf_mkii_pompom_616
+    second: {fileID: 2100000, guid: 75df4a60667ce42f3af1c19d782f50f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm001_paravane_321
+    second: {fileID: 2100000, guid: 32cc55bdaad0344c894643976b3c5473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm004_reels_689
+    second: {fileID: 2100000, guid: 7414c46cb72f94574b112d6cfe8d87b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm016_depth_charge_roller_rack_972
+    second: {fileID: 2100000, guid: f7d149c5b4fae43658777bda4dae56ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm020_smoke_floats_946
+    second: {fileID: 2100000, guid: 84e31a82876a84303a87441686fee4d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm021_crown_246
+    second: {fileID: 2100000, guid: b4713dcd72d434c31972f98b6cda3d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm039_artillery_shell_457
+    second: {fileID: 2100000, guid: fe20fcb837d8d4da6b37fd6fd4fb4160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm507_whaler_27ft_906
+    second: {fileID: 2100000, guid: 1fba9e2e7d9d542c78d78c8ad9ed0be9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm509_liferaft_type_20_10ft_853
+    second: {fileID: 2100000, guid: b4df7fa1630ba45f1a9cf9265e8718d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm522_motor_cutter_25ft_442
+    second: {fileID: 2100000, guid: ef2c0e062184f414abf8166665e4ea42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm525_dinghy_16ft_454
+    second: {fileID: 2100000, guid: efc1bdc9b81b74ae3a28c7480438b967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm602_pelorus_138
+    second: {fileID: 2100000, guid: 49a28f4f57a10453a811ab8ec91baece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm603_compass_binnacle_145
+    second: {fileID: 2100000, guid: 1c6076775d46942918f42bb95753a961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm607_telegraph_engine_526
+    second: {fileID: 2100000, guid: a50f46944bbe8416abd63875e2557941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm607_telegraph_engine_732
+    second: {fileID: 2100000, guid: 9f9d19ff8d1a14a6ba520984da70562e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm624_speaker_820
+    second: {fileID: 2100000, guid: 73c80a9eae9bc433a9c755662073defd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm627_bearing_indicator_979
+    second: {fileID: 2100000, guid: 500550f12ba9248e2be374cae1be47d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm701_locker_601
+    second: {fileID: 2100000, guid: af3cfad2694134f83ae26a69b7120c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm702_flag_box_654
+    second: {fileID: 2100000, guid: 1f1aee06f76db473781128a73936c227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm705_ammunition_box_369
+    second: {fileID: 2100000, guid: 85fb43da3d05e4965ac1130000880bd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm707_locker_128
+    second: {fileID: 2100000, guid: 068708ed86a9b464bacd49174914d029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm714_locker_35
+    second: {fileID: 2100000, guid: 45c3807c7b0c04f918248aaed504120c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm751_deck_hatch_951
+    second: {fileID: 2100000, guid: ce1c8e86c58f74be486abd7e1e5769df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm759_hatch_520
+    second: {fileID: 2100000, guid: 9116f5c4004bd4565aa58ec5d2b4cbef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm800_ventilators_mushroom_74
+    second: {fileID: 2100000, guid: 130c4371604e34aaf992b8ee3f9888e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm850_signal_lamp_10in_471
+    second: {fileID: 2100000, guid: 10e4a46193e2f41e399b2d5ce17fbea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm854_running_lights_l_166
+    second: {fileID: 2100000, guid: 6ded770028f5542e99650f4583fa348c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm854_running_lights_r_4
+    second: {fileID: 2100000, guid: b8fda0cfe28eb4d9e8fde3c215b4e741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm857_fog_light_828
+    second: {fileID: 2100000, guid: 9546d35ae88ac49d7841418d0f07813f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm858_signal_lamp_106
+    second: {fileID: 2100000, guid: a5e64950a70e14ddab0a4fae4c2757e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm858_signal_lamp_127
+    second: {fileID: 2100000, guid: 6fbc4f7f8a8e4440486acb02f8abb5d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm871_running_lights_f_394
+    second: {fileID: 2100000, guid: c52c4b02819c8442facc14893e9b513f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm871_running_lights_f_81
+    second: {fileID: 2100000, guid: 43d5598a53df746639b59d041defe8e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm879_searchlight_24in_925
+    second: {fileID: 2100000, guid: df824de6b462b48eea8dcbccbb0fe50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm909_crane_573
+    second: {fileID: 2100000, guid: de291765f815b41be821dc3301ca830c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm909_crane_wire_573
+    second: {fileID: 2100000, guid: 486c11bdf08a842a691332df1212c52e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bm966_fairlead_280
+    second: {fileID: 2100000, guid: 84ea14e1b9a3b4129b59e245a0989b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bsd004_acasta_1940_489
+    second: {fileID: 2100000, guid: 96951d4b20e984b7aa3687b14f9ba9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_bsd004_acasta_1940_wire_489
+    second: {fileID: 2100000, guid: 2bca79006e5144b1eb34d9f6b244aaf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm002_propeller_4b_483
+    second: {fileID: 2100000, guid: 5de2c80ce1a484dee815f8519b2bf74f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm002_propeller_4b_696
+    second: {fileID: 2100000, guid: e78d326b364ce4ffab32c7f054611dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm005_anchor_1_43
+    second: {fileID: 2100000, guid: 0aa066ce7ea364ec99d1c7e3868f6d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm010_fire_hose_reel_629
+    second: {fileID: 2100000, guid: d189e2ad64acf4bbca5dc9b382f3f023, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm028_swab_rack_166
+    second: {fileID: 2100000, guid: 284382d961c1140c385b805336bb9797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm029_emergency_box_391
+    second: {fileID: 2100000, guid: f660306c743824c2db93d79d26585b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm040_steering_wheel_324
+    second: {fileID: 2100000, guid: b192d33d8c6b647f2a6f278b9ac9d8c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm052_fender_454
+    second: {fileID: 2100000, guid: 6e54add733f0f4c5c92cebafc6c2bfa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm056_ships_bell_156
+    second: {fileID: 2100000, guid: ced2c16604d1c42f095d66dab6e976ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm081_life_buoy_228
+    second: {fileID: 2100000, guid: 83b9d7c4909fa44a4939da265b853247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm085_anchor_top_839
+    second: {fileID: 2100000, guid: 2f190c342a6474393876d5777ca2720f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_cm092_siren_230
+    second: {fileID: 2100000, guid: 213c701f46b65429ab4c02c61c6ab616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acasta_transparent_glass_alpha_442
+    second: {fileID: 2100000, guid: e4c65896c404b42c3843d6c70690c18c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Visby_wgm004_120mm_bofors_wz34_36_single_skinned_691
+    second: {fileID: 2100000, guid: a75988e0280d14970b9884b29fa8056a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wakeful_bgt038_21in_triple_torpedo_tube_616
+    second: {fileID: 2100000, guid: 78f25918cc31c406d8e15b752ea4c6c0, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
